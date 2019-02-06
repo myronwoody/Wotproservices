@@ -17,7 +17,7 @@ body,
   height: 100%; }
 
 body {
-  background-color: #232930;
+  background-color: #1F2833;
 }
 
 hr {
@@ -28,7 +28,7 @@ hr {
 }
 
 .c-theme-font, .c-theme-color {
-    color: #f36510!important;
+    color: #66FCF1 !important;
 }
 
 .text-muted{
@@ -53,15 +53,15 @@ color: #ffd80d !important;
   background-color: rgba(0, 0, 0, 0.2); }
 
 .top-nav-collapse {
-  background-color: #171E22 !important; }
+  background-color: #0B0C10 !important; }
 
 
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
-  background-color: #171E22 !important; }
+  background-color: #0B0C10 !important; }
 
 .card{
-  background: #293139;
+  background: #1F2833;
   border-radius: 2px;
   display: inline-block;
   margin: 1rem;
@@ -78,6 +78,10 @@ color: #ffd80d !important;
   padding-top: 20px;
 }
 
+#infocard{
+    background-color: #1F2833;
+}
+
 #bagc{
   font-family: 'Montserrat', sans-serif;
   font-weight: 800;
@@ -91,7 +95,7 @@ color: #ffd80d !important;
 }
 
 span{
-  color: #D2183B;
+  color: #66FCF1;
 }
 
 h2{
@@ -100,11 +104,11 @@ h2{
 
 }
 
-p{
+p {
   font-family: 'Montserrat', sans-serif;
 }
 
-#proj{
+#proj {
   padding-top: 100px;
 }
 
